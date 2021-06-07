@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Kopi Agung",
+    "address": "Jalan Diponegoro No 131",
+    "delivery_charge": 5,
+    "image": "https://www.creativefabrica.com/wp-content/uploads/2018/10/Steam-coffee-logo-by-yahyaanasatokillah-580x387.jpg",
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Espresso",
+        "price": 15.000,
+        "url": "https://previews.123rf.com/images/karandaev/karandaev1704/karandaev170400326/76044176-espresso-coffee-in-glass-cup-isolated-on-white-background.jpg"
+      },
+      {
+        "name": "Vietnam Drip",
+        "price": 18.000,
+        "url": "https://media.istockphoto.com/photos/dripping-coffee-with-condensed-milk-at-the-bottom-isolated-on-white-picture-id1271375590?s=612x612"
+      },
+      {
+        "name": "Affogato",
+        "price": 20.000,
+        "url": "https://previews.123rf.com/images/ztranger/ztranger2102/ztranger210200007/164627597-close-up-of-coffee-affogato-on-wooden-plate-.jpg"
+      },
+      {
+        "name": "Pancake",
+        "price": 10.000,
+        "url": "https://image.freepik.com/free-vector/delicious-fluffy-pancake-with-honey-butter-toppings-fresh-fruit-white-background_281653-995.jpg"
+      },
+      {
+        "name": "Kentang Goreng",
+        "price": 15.000,
+        "url": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1502764.jpg"
+      },
+      {
+        "name": "Burger Sapi",
+        "price": 25.000,
+        "url": "https://i.dlpng.com/static/png/5334912-spongebob-sticker-krabby-patty-transparent-png-1024x1164-krabby-patty-png-820_972_preview.png"
+      }
+    ]
+  }
+]
